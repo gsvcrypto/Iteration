@@ -12,7 +12,7 @@ hash.fifth = 2;
 Object.defineProperty(hash, 'newField', {
   enumerable: false,
   value: 'valueOfNewField',
-});
+});/**/
 
 Object.prototype.inheritedProperty = 'inherited';
 
